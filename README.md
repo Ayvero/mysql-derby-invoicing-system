@@ -32,7 +32,8 @@ Run the Main.java to execute queries.
 
 🔬 Example Functionality
 
-
-
 ProductoDTO productoConMayorRecaudacion = service.getProductoConMayorRecaudacion();
-System.out.println("Highest Revenue Product: " + productoConMayorRecaudacion.getNombre());
+System.out.println("Producto con Mayor Recaudación: " + productoConMayorRecaudacion.getNombre());
+
+
+
